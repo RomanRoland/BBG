@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Algoritmi fundamentali laborator\BilaLogic\BilaLogic\bin\Debug\BilaLogic.exe.config
+C:\Users\LENOVO\Desktop\Algoritmi fundamentali laborator\BilaLogic\BilaLogic\bin\Debug\BilaLogic.exe
+C:\Users\LENOVO\Desktop\Algoritmi fundamentali laborator\BilaLogic\BilaLogic\bin\Debug\BilaLogic.pdb
+C:\Users\LENOVO\Desktop\Algoritmi fundamentali laborator\BilaLogic\BilaLogic\obj\Debug\BilaLogic.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Algoritmi fundamentali laborator\BilaLogic\BilaLogic\obj\Debug\BilaLogic.Form1.resources
+C:\Users\LENOVO\Desktop\Algoritmi fundamentali laborator\BilaLogic\BilaLogic\obj\Debug\BilaLogic.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Algoritmi fundamentali laborator\BilaLogic\BilaLogic\obj\Debug\BilaLogic.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Algoritmi fundamentali laborator\BilaLogic\BilaLogic\obj\Debug\BilaLogic.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Algoritmi fundamentali laborator\BilaLogic\BilaLogic\obj\Debug\BilaLogic.exe
+C:\Users\LENOVO\Desktop\Algoritmi fundamentali laborator\BilaLogic\BilaLogic\obj\Debug\BilaLogic.pdb
